@@ -1,8 +1,8 @@
 ![Logo](IMAGE)
 
 # PluginName
-This plugin adds new interesting pets to the game that are always with you, and not using a leash..\
-The aim of this plugin is to allow players to use pets abilities as they want.
+LINE1.\
+LINE2.
 
 ## Resources
 - [Spigot resource](https://www.spigotmc.org/resources/X/)
